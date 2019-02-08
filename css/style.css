@@ -27,7 +27,48 @@ html {
      text-align: center;
  }
 
+ /* HEADER */
+ body{
+  font-family: "akzidenz-grotesk", "Berthold Akzidenz Grotesk BE", sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+ }
+.bg-red{
+  background-color: #d20a0a;
+}
+.bg-black{
+  background-color: #0c0c0f;
+}
+.navbar-brand>.img-fluid{
+  width: 40%;
+}
+
  /* DISCIPLINES */
  .titre-discipline{
    text-align: center;
+   color: #d20a0a;
+   font-weight: 600;
+ }
+ .texte-discipline{
+  overflow: hidden;
+  height: 7.5rem;
+ }
+ .bouton{
+  display: inline-block;
+  position: relative;
+  width: 100% !important;
+  padding: 0 0.9375rem;
+  color: #fafbfd;
+  text-align: left;
+  background-color: #d20a0a;
+  border: none;
+  white-space: nowrap;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+  box-sizing: border-box;
+ }
+
+ .fas{
+   color: #d20a0a;
  }
