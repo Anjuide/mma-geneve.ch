@@ -1,3 +1,21 @@
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-4">
+      <h3>Adresse</h3>
+      <p>Avenue de Châtelaine 91A</p>
+      <p>1219 Châtelaine, Vernier, Suisse</p>
+    </div>
+    <div class="col-12 col-md-4">
+      <h3>Contact</h3>
+      <p>Tél: +41 78 948 60 29</p>
+      <p>Email: planetemmage@gmail.com</p>
+    </div>
+    <div class="col-12 col-md-4">
+      <h3>Suivez-nous</h3>
+      <p>Facebook</p>
+    </div>
+  </div>
+</div>
 </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
