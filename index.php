@@ -58,7 +58,7 @@ include "header.php"
                         </p>
                     </div>
                     <div class="px-0 bg-black">
-                        <a class="bouton" href="/classes/boxing-conditioning">
+                        <a class="bouton" href="#">
                             <span class="">
                                 En savoir plus 
                                 <i class=""></i>
@@ -81,7 +81,7 @@ include "header.php"
                     </div>
                     
                     <div class="px-0 bg-black">
-                        <a class="bouton" href="/classes/boxing-conditioning">
+                        <a class="bouton" href="#">
                             <span class="">
                                 En savoir plus 
                                 <i class=""></i>
@@ -107,7 +107,7 @@ include "header.php"
                         </p>
                     </div>
                     <div class="px-0 bg-black">
-                            <a class="bouton" href="/classes/boxing-conditioning">
+                            <a class="bouton" href="#">
                                 <span class="">
                                     En savoir plus 
                                     <i class=""></i>
@@ -127,7 +127,7 @@ include "header.php"
                         </p>
                     </div>
                     <div class="px-0 bg-black">
-                            <a class="bouton" href="/classes/boxing-conditioning">
+                            <a class="bouton" href="#">
                                 <span class="">
                                     En savoir plus 
                                     <i class=""></i>
@@ -148,7 +148,7 @@ include "header.php"
                         </p>
                     </div>
                     <div class="px-0 bg-black">
-                            <a class="bouton" href="/classes/boxing-conditioning">
+                            <a class="bouton" href="#">
                                 <span class="">
                                     En savoir plus 
                                     <i class=""></i>
@@ -169,7 +169,7 @@ include "header.php"
                         </p>
                     </div>
                     <div class="px-0 bg-black">
-                            <a class="bouton" href="/classes/boxing-conditioning">
+                            <a class="bouton" href="#">
                                 <span class="">
                                     En savoir plus 
                                     <i class=""></i>
@@ -266,52 +266,51 @@ include "header.php"
         </table>
     </div>
 
-    <!-- CONTACT -->
-    <div class="container">
-        <div id="contact" class="col bg-black text-white text-left pl-1 pb-3">
-            <h2>Contact</h2>
-        </div>
-        <div class="row text-center">
-            <div class="col-12 col-md-4">
-                <i class="fas fa-phone fa-2x"></i>
-                <h4>Phone</h4>
-                <p>+41 78 948 60 29 </p>
+    <div class="bg-white text-dark py-3">
+        <div class="container">
+            <div id="contact" class="col text-left pl-1 pb-3">
+                <h2>Contact</h2>
             </div>
-            <div class="col-12 col-md-4">
-                <i class="fas fa-envelope fa-2x"></i>
-                <h4>Email</h4>
-                <p>planetemmage@gmail.com </p>
-            </div>
-            <div class="col-12 col-md-4">
-                <i class="fas fa-map-marker-alt fa-2x"></i>
-                <h4>Adresse</h4>
-                <p>Avenue de Châtelaine 91A, 1219 Châtelaine</p>
-            </div>
-        </div>
-        <form class="my-5">
-            <div class="form-row">
-                <div class="form-group col-md-6">
-                    <label for="inputEmail">E-mail</label>
-                    <input type="email" class="form-control" id="inputEmail" placeholder="Entrez votre adresse e-mail" required>
+            <div class="row text-center">
+                <div class="col-12 col-md-4">
+                    <i class="fas fa-phone fa-2x"></i>
+                    <h4>Phone</h4>
+                    <p>+41 78 948 60 29 </p>
                 </div>
-                <div class="form-group col-md-6">
-                    <label for="inputName">Nom</label>
-                    <input type="text" class="form-control" id="inputName" placeholder="Entrez votre nom" required>
+                <div class="col-12 col-md-4">
+                    <i class="fas fa-envelope fa-2x"></i>
+                    <h4>Email</h4>
+                    <p>planetemmage@gmail.com </p>
+                </div>
+                <div class="col-12 col-md-4">
+                    <i class="fas fa-map-marker-alt fa-2x"></i>
+                    <h4>Adresse</h4>
+                    <p>Avenue de Châtelaine 91A, 1219 Châtelaine</p>
                 </div>
             </div>
-            <div class="form-group">
-                <label for="inputMessage">Message</label>
-                <textarea rows="4" class="form-control" id="inputMessage" placeholder="Entrez votre message"></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary">Envoyer</button>
-        </form>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2760.9721418804634!2d6.109790115582606!3d46.21100917911683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sch!4v1520968001608" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+            <form class="my-5">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="inputEmail">E-mail</label>
+                        <input type="email" class="form-control" id="inputEmail" placeholder="Entrez votre adresse e-mail" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="inputName">Nom</label>
+                        <input type="text" class="form-control" id="inputName" placeholder="Entrez votre nom" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="inputMessage">Message</label>
+                    <textarea rows="4" class="form-control" id="inputMessage" placeholder="Entrez votre message"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Envoyer</button>
+            </form>
+        </div>
     </div>
-
-
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2760.9721418804634!2d6.109790115582606!3d46.21100917911683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sch!4v1520968001608" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
 </div>
 
 <!-- Inclure le footer -->
 <?php
-include "footer.php"
+    include "footer.php"
 ?>
