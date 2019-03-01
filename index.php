@@ -10,21 +10,21 @@ include "header.php"
     </ol>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="img/sliders/BJJ_Gi_Level1_Desktop2x_2560x864__1_.jpg" class="d-block w-100" alt="Slide 1">
+            <img src="img/sliders/B01.jpg" class="d-block w-100" alt="Slide 1">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Where Am I?</h5>
                 <p>I am just on the picture</p>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="img/sliders/open-uri20151214-3-1fx38j2.jpg" class="d-block w-100" alt="Slide 2">
+            <img src="img/sliders/B02.jpg" class="d-block w-100" alt="Slide 2">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Where Am I?</h5>
                 <p>I am just on the picture</p>
             </div>
         </div>
         <div class="carousel-item">
-            <img src="img/sliders/BJJ_Gi_Level2_Desktop2x_2560x864.jpg" class="d-block w-100" alt="Slide 3">
+            <img src="img/sliders/B03.jpg" class="d-block w-100" alt="Slide 3">
             <div class="carousel-caption d-none d-md-block">
                 <h5>Where Am I?</h5>
                 <p>I am just on the picture</p>
@@ -48,7 +48,7 @@ include "header.php"
         </div>
         <div class="row justify-content-md-center mx-auto">
             <div id="mma" class="bg-black text-dark col-12 col-md-6 col-lg-4 px-1">
-                <img src="img/disciplines/half_size_image20151214-3-bkl428.jpg" class="img-fluid" alt="Responsive image">
+                <img src="img/disciplines/A01.jpg" class="img-fluid" alt="Responsive image">
                 <div class="px-0 bg-white">
                     <div class="px-3 bg-white">
                         <h2 class="titre-discipline">MMA</h2>
@@ -69,7 +69,7 @@ include "header.php"
             </div>
 
             <div id="bjj" class="bg-black text-dark col-12 col-md-6 col-lg-4 px-1">
-                <img src="img/disciplines/half_size_image20151214-3-1fi8vjr.jpg" class="img-fluid" alt="Responsive image">
+                <img src="img/disciplines/A02.jpg" class="img-fluid" alt="Responsive image">
                 
                 <div class="px-0 bg-white">
                     <div class="px-3 bg-white">
@@ -94,7 +94,7 @@ include "header.php"
             </div>
 
             <div id="muaythai"  class="bg-black text-dark col-12 col-md-6 col-lg-4 px-1">
-                <img src="img/disciplines/half_size_image20151214-3-17zo4j1.jpg" class="img-fluid" alt="Responsive image">
+                <img src="img/disciplines/a03.jpg" class="img-fluid" alt="Responsive image">
                 
                 <div class="px-0 bg-white">
                     <div class="px-3 bg-white">
@@ -117,7 +117,7 @@ include "header.php"
                 </div>
             </div>
             <div id="wrestling"  class="bg-black text-dark col-12 col-md-6 col-lg-4 px-1">
-                <img src="img/disciplines/half_size_image20151214-3-13lb43u.jpg" class="img-fluid" alt="Responsive image">
+                <img src="img/disciplines/A04.jpg" class="img-fluid" alt="Responsive image">
                 
                 <div class="px-0 bg-white">
                     <div class="px-3 bg-white">
@@ -137,7 +137,7 @@ include "header.php"
                 </div>
             </div>
             <div id="boxeanglaise"  class="bg-black text-dark col-12 col-md-6 col-lg-4 px-1">
-                <img src="img/disciplines/half_size_image20151214-3-19hpi33.jpg" class="img-fluid" alt="Responsive image">
+                <img src="img/disciplines/A05.jpg" class="img-fluid" alt="Responsive image">
                 
                 <div class="px-0 bg-white">
                     <div class="px-3 bg-white">
@@ -158,7 +158,7 @@ include "header.php"
                 </div>
             </div>
             <div id="leconsprivees"  class="bg-black text-dark col-12 col-md-6 col-lg-4 px-1">
-                <img src="img/disciplines/half_size_image20151214-3-1hptjf.jpg" class="img-fluid" alt="Responsive image">
+                <img src="img/disciplines/A06.jpg" class="img-fluid" alt="Responsive image">
                 
                 <div class="px-0 bg-white">
                     <div class="px-3 bg-white">
@@ -307,7 +307,7 @@ include "header.php"
             </form>
         </div>
     </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2760.9721418804634!2d6.109790115582606!3d46.21100917911683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sch!4v1520968001608" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5521.9442900608565!2d6.107601438524377!3d46.211009116455116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sch!4v1550837807129" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 <!-- Inclure le footer -->
